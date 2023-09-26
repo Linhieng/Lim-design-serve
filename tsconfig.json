@@ -1,0 +1,7 @@
+{
+    "include": ["src/**/*"],
+    "compilerOptions": {
+        "module": "ESNext",
+        "moduleResolution": "Bundler"
+    }
+}
